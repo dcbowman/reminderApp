@@ -1,0 +1,12 @@
+{
+  "name": "reminderApp",
+  "displayName": "reminderApp",
+  "expo": {
+    "name": "reminderApp",
+    "slug": "reminderApp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
